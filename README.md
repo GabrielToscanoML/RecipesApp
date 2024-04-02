@@ -20,7 +20,8 @@ Além disso, neste projeto, foi verificado nossa capacidade de:
 
 
 ### ⚙️ Deploy da aplicação ###
-Você pode ver o projeto funcionando <a href=“https://toscano-recipes-app.vercel.app/“>aqui</a>. Este projeto foi desenvolvido para ter um foco maior em design mobile.
+Você pode ver o projeto funcionando aqui: https://toscano-recipes-app.vercel.app/.
+Este projeto foi desenvolvido para ter um foco maior em design mobile.
 
 <div align="center">
 <img src="./src/images/ReadmeImages/meals.png" alt="homePageMeal.png" width="250"> <img src="./src/images/ReadmeImages/drink.png" alt="drink.png" width="250">
